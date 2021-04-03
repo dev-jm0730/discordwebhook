@@ -3,7 +3,7 @@ Discord web hook send tool made with Beeware
 
 # Linux, Windows, MacOS
 
-requirement
+equirement
 
 [Python](https://www.python.org/downloads/)<br>
 [Beeware](https://docs.beeware.org/en/latest/)<br>
