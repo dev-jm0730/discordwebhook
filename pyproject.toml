@@ -10,7 +10,6 @@ author_email = "jeong@jimin.email"
 [tool.briefcase.app.discordwebhook]
 formal_name = "discord webhook"
 description = "Discord Webhook Send Tool"
-icon = "src/discordwebhook/resources/discordwebhook.ico"
 sources = ['src/discordwebhook']
 requires = ['discord-webhook']
 
@@ -47,4 +46,3 @@ requires = [
 requires = [
     'toga-android>=0.3.0.dev20',
 ]
-icon = "src/discordwebhook/resources/discordwebhook.ico"
