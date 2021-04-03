@@ -5,9 +5,9 @@ Discord web hook send tool made with Beeware
 
 requirement
 
-[Python](https://www.python.org/downloads/)
-[Beeware](https://docs.beeware.org/en/latest/)
-[Git](https://git-scm.com/downloads)
+[Python](https://www.python.org/downloads/)<br>
+[Beeware](https://docs.beeware.org/en/latest/)<br>
+[Git](https://git-scm.com/downloads)<br>
 
 Install discord-wehbook
 ```
