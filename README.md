@@ -1,5 +1,5 @@
 # discordwebhook
-Discord web hook send tool made with Beeware\
+Discord web hook send tool made with Beeware
 
 # Linux, Windows, MacOS
 
